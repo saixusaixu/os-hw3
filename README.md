@@ -1,1 +1,1 @@
-# os-hw3
+# xv6-lottery-scheduling
